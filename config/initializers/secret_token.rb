@@ -1,0 +1,1 @@
+Fakerapi::Application.config.secret_token = 'f27febb4b8673221121d4f972ce9cf37e3da7a06ba92d6b75cb4fbeadc1b0b8e5bfcfcbdef75f825e9389f88bd54c67d4746450f7693b890ae4e4cb6c95d90c2'
